@@ -1,3 +1,5 @@
+// Comment
+
 window.onload = function() {
 
 	if (window.File && window.FileReader && window.FileList && window.Blob) {
